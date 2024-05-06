@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/levywan_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="levywan_ke" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/levy wanyonyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levy wanyonyi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/levy-wanyonyi-462b46263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levy wanyonyi" height="30" width="40" /></a>
 <a href="https://instagram.com/levywanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="levywanke" height="30" width="40" /></a>
 </p>
 
