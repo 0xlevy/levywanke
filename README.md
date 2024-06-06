@@ -29,17 +29,17 @@ Here are a few projects I've worked on:
 1. **[Project Name 1]**
    - Description: Briefly describe what the project does.
    - Technologies: List the technologies used (e.g., React, Node.js, MongoDB).
-   - GitHub: [Link to the project repository](https://github.com/yourusername/project1)
+   - GitHub: [Link to the project repository](https://github.com/levywanke/project1)
 
 2. **[Project Name 2]**
    - Description: Briefly describe what the project does.
    - Technologies: List the technologies used (e.g., Python, Flask, MySQL).
-   - GitHub: [Link to the project repository](https://github.com/yourusername/project2)
+   - GitHub: [Link to the project repository](https://github.com/levywanke/project2)
 
 3. **[Project Name 3]**
    - Description: Briefly describe what the project does.
    - Technologies: List the technologies used (e.g., Java, Spring Boot, PostgreSQL).
-   - GitHub: [Link to the project repository](https://github.com/yourusername/project3)
+   - GitHub: [Link to the project repository](https://github.com/levywanke/project3)
 
 ## Contact Me
 
@@ -51,11 +51,11 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=levywanke&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levywanke&layout=compact&theme=radical)
 
 ---
 
