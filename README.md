@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate computer science and software engineering student with a keen interest in developing innovative solutions and learning new technologies.
 
+![Profile Views](https://komarev.com/ghpvc/?username=levywanke&color=blueviolet)
+
 ## About Me
 
 - 🎓 I am currently pursuing a degree in Computer Science and Software Engineering.
