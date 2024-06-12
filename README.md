@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a passionate computer science and software eng
 - 
 ## Contact Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/levy-wanyonyi-462b46263/)
-- **Twitter**: [Your Twitter Profile](https://x.com/levywan_ke)
+- **LinkedIn**: [Here](https://www.linkedin.com/in/levy-wanyonyi-462b46263/)
+- **Twitter**: [Here](https://x.com/levywan_ke)
 
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
