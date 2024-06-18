@@ -23,9 +23,10 @@ Welcome to my GitHub profile! I'm a passionate computer science and software eng
 - 
 ## Contact Me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254110414093)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levy-wanyonyi-462b46263/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/levywan_ke)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/levywanke)
 
-- **LinkedIn**: [Here](https://www.linkedin.com/in/levy-wanyonyi-462b46263/)
-- **Twitter**: [Here](https://x.com/levywan_ke)
 
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
