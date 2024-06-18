@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate computer science and software eng
 - **Other**: Algorithms, Data Structures, Object-Oriented Programming, Agile Methodologies
 - 
 ## Contact Me
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254110414093)
 
 - **LinkedIn**: [Here](https://www.linkedin.com/in/levy-wanyonyi-462b46263/)
 - **Twitter**: [Here](https://x.com/levywan_ke)
