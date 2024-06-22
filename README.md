@@ -4,25 +4,6 @@ Welcome to my GitHub profile! I'm a passionate computer science and software eng
 
 ![Profile Views](https://komarev.com/ghpvc/?username=levywanke&color=blueviolet)
 
-## About Me
-
-- 🎓 I am currently pursuing a degree in Computer Science and Software Engineering.
-- 💻 I have a strong foundation in programming languages such as Python, JavaScript, Java, and C++.
-- 🌐 I enjoy working on web development projects using frameworks like React and Node.js.
-- 🛠️ I have experience with database management systems like MySQL.
-- 🤖 I am fascinated by artificial intelligence and machine learning.
-- 🚀 I love contributing to open source projects and collaborating with other developers.
-
-## Skills
-
-- **Languages**: Python, JavaScript, Java, C++, HTML, CSS
-- **Web Development**: React, Node.js, Express.js, Bootstrap
-- **Databases**: MySQL, Postgresql
-- **Tools & Platforms**: Git, GitHub, Docker, Heroku, AWS
-- **Other**: Algorithms, Data Structures, Object-Oriented Programming, Agile Methodologies
-
-Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
-
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=levywanke&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levywanke&theme=radical)
