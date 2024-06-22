@@ -33,7 +33,7 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=levywanke&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=levywanke&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levywanke)
 
 ## Top Languages
 
