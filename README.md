@@ -1,6 +1,6 @@
 # Hi there, I'm levy wanyonyi 👋
 
-Welcome to my GitHub profile! I'm a passionate computer science and software engineering student with a keen interest in developing innovative solutions and learning new technologies.
+* Welcome to my GitHub profile! I'm a passionate `computer science and software engineering` student with a keen interest in developing innovative solutions and learning new technologies.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=levywanke&color=blueviolet)
 
@@ -14,5 +14,5 @@ Welcome to my GitHub profile! I'm a passionate computer science and software eng
 
 
 
-Thank you for visiting my profile! Have a great day! 😊 Adios!👌
+`Thank you for visiting my profile! Have a great day! 😊 Adios!👌`
 
