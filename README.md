@@ -1,4 +1,4 @@
-# ![Hi there, I'm Levy Wanyonyi 👋](https://i.imgur.com/your-animated-gif.gif)
+# Hi there, I'm Levy Wanyonyi 👋
 
 * Welcome to my GitHub profile! I'm a passionate `computer science and software engineering` student with a keen interest in developing innovative solutions and learning new technologies.
 
@@ -10,7 +10,7 @@
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levywanke&layout=compact&theme=radical)   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levywanke&layout=compact&theme=radical)   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
