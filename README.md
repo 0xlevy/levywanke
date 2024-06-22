@@ -1,4 +1,4 @@
-# Hi there, I'm levy wanyonyi 👋
+# ![Hi there, I'm Levy Wanyonyi 👋](https://i.imgur.com/your-animated-gif.gif)
 
 * Welcome to my GitHub profile! I'm a passionate `computer science and software engineering` student with a keen interest in developing innovative solutions and learning new technologies.
 
