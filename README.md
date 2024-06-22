@@ -11,7 +11,7 @@
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levywanke&layout=compact&theme=radical) 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=levywanke&theme=radical)
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
