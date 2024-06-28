@@ -1,4 +1,4 @@
-<p style="font-size:25px; font-weight: bold; color: #FF5733; animation: neonText 2s infinite alternate;">Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast</p>
+### Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=levywanke&color=blueviolet)
 
