@@ -1,4 +1,4 @@
-### <p style="font-size: 18px; font-weight: bold; color: #FF5733; animation: neonText 2s infinite alternate;">Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast</p>
+ <p style="font-size: 18px; font-weight: bold; color: #FF5733; animation: neonText 2s infinite alternate;">Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast</p>
 
 * Welcome to my GitHub profile! I'm a passionate `computer science and software engineering` student with a keen interest in developing innovative solutions and learning new technologies.
 
