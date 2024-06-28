@@ -1,4 +1,4 @@
-### Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast
+# Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=levywanke&color=blueviolet)
 
