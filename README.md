@@ -1,4 +1,12 @@
-### Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast
+### <p style="font-size: 18px; font-weight: bold; color: #FF5733; animation: neonText 2s infinite alternate;">Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast</p>
+
+<style>
+/* CSS for animation */
+@keyframes neonText {
+    0% { text-shadow: 0 0 5px #FF5733, 0 0 10px #FF5733; }
+    100% { text-shadow: 0 0 20px #FF5733, 0 0 30px #FF5733; }
+}
+</style>
 
 * Welcome to my GitHub profile! I'm a passionate `computer science and software engineering` student with a keen interest in developing innovative solutions and learning new technologies.
 
