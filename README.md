@@ -1,6 +1,6 @@
 # Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=levywanke&color=blueviolet) <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=levy-wanyonyi-462b46263" target="_blank">Follow on LinkedIn</a>
+![Profile Views](https://komarev.com/ghpvc/?username=levywanke&color=blueviolet) <link rel="stylesheet" href="styles.css"><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=levy-wanyonyi-462b46263" target="_blank">Follow on LinkedIn</a>
 
 ### GitHub Stats
 
