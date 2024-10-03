@@ -23,5 +23,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated" || echo "No changes to commit"
-          git pull origin master  # Pull the latest changes before pushing
+          git pull origin master --rebase  # Pull the latest changes before pushing
           git push origin master
