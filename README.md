@@ -1,20 +1,2 @@
-# Aspiring Software Engineer || Computer Science Student || Blockchain Enthusiast
-
-![Profile Views](https://komarev.com/ghpvc/?username=levywanke&color=blueviolet) [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=levy-wanyonyi-462b46263)
-
-
-### GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=levywanke&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levywanke&theme=radical)
-
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levywanke&layout=compact&theme=radical)   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-
-`Thank you for visiting my profile! Have a great day! 😊 Adios!👌`
-
+#   𝕬𝖘𝖕𝖎𝖗𝖎𝖓𝖌 𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗 | 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊 𝕾𝖙𝖚𝖉𝖊𝖓𝖙 | 𝕭𝖑𝖔𝖈𝖐𝖈𝖍𝖆𝖎𝖓 𝕰𝖓𝖙𝖍𝖚𝖘𝖎𝖆𝖘𝖙
+##  𝕽𝖊𝖘𝖚𝖗𝖌𝖊𝖓𝖙 𝖘𝖍𝖆𝖑𝖑 𝕴 𝖇𝖊𝖈𝖔𝖒𝖊
