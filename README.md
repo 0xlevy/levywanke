@@ -2,4 +2,4 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-##  𝕽𝖊𝖘𝖚𝖗𝖌𝖊𝖓𝖙 𝖘𝖍𝖆𝖑𝖑 𝕴 𝖇𝖊𝖈𝖔𝖒𝖊
+##  𝕽𝖊𝖘𝖚𝖗𝖌𝖊𝖓𝖙 𝕾𝖍𝖆𝖑𝖑 𝕴 𝕭𝖊𝖈𝖔𝖒𝖊
