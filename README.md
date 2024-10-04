@@ -2,12 +2,19 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 #       ℭ𝔬𝔫𝔫𝔢𝔠𝔱 𝔴𝔦𝔱𝔥 𝔐𝔢
-<div style="display: flex; justify-content: space-around; align-items: center;">
-
-    <img src="images/twitter.png" alt="Twitter" style="width: 50px; height: 50px; border-radius: 50%;">
-    <img src="images/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; border-radius: 50%;">
-    <img src="images/youtube.png" alt="YouTube" style="width: 50px; height: 50px; border-radius: 50%;">
-    <img src="images/instagram.png" alt="Instagram" style="width: 50px; height: 50px; border-radius: 50%;">
-
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://twitter.com/yourprofile" target="_blank">
+        <img src="./images/twitter.png" alt="Twitter" style="width: 50px; height: 50px; border-radius: 50%;">
+    </a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+        <img src="./images/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; border-radius: 50%;">
+    </a>
+    <a href="https://youtube.com/c/yourchannel" target="_blank">
+        <img src="./images/youtube.png" alt="YouTube" style="width: 50px; height: 50px; border-radius: 50%;">
+    </a>
+    <a href="https://instagram.com/yourprofile" target="_blank">
+        <img src="./images/instagram.png" alt="Instagram" style="width: 50px; height: 50px; border-radius: 50%;">
+    </a>
+</div>
 </div>
 ##  𝕽𝖊𝖘𝖚𝖗𝖌𝖊𝖓𝖙 𝕾𝖍𝖆𝖑𝖑 𝕴 𝕭𝖊𝖈𝖔𝖒𝖊
